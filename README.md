@@ -43,4 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+## String
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
