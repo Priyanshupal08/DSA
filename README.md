@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Priyanshupal08/DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Priyanshupal08/DSA/tree/master/0455-assign-cookies) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Priyanshupal08/DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 ## String
 |  |
 | ------- |
