@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Priyanshupal08/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/Priyanshupal08/DSA/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Priyanshupal08/DSA/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0540-single-element-in-a-sorted-array) |
