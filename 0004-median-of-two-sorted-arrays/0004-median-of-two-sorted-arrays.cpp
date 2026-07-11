@@ -8,7 +8,11 @@ public:
         if(n>m){
             return findMedianSortedArrays(nums2, nums1);
         }
-        
+
+        // if((n+m)%2==0){
+        //     N=(n+m)/2;
+        // }
+
         int N= n+m;
         int left= (n+m+1)/2;
 
