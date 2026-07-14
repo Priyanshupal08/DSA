@@ -11,7 +11,7 @@ public:
 
         vector<int> freq(maxi+1, 0);
         
-        for(int i=0; i<n; i++){
+        for(long long i=0; i<n; i++){
             freq[ast[i]]++;
         }
 
@@ -21,7 +21,7 @@ public:
             if(w<i){
                 return false;
             }
-            w+= ((long long)i* (long long)freq[i]);
+            w+= (i* (long long)freq[i]);
         }
 
         return true;
