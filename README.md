@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Priyanshupal08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Priyanshupal08/DSA/tree/master/0881-boats-to-save-people) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshupal08/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Two Pointers
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Priyanshupal08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Priyanshupal08/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Priyanshupal08/DSA/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/Priyanshupal08/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Priyanshupal08/DSA/tree/master/0881-boats-to-save-people) |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Priyanshupal08/DSA/tree/master/0014-longest-common-prefix) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
