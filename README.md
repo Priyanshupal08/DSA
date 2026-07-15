@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshupal08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Priyanshupal08/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
 | ------- |
