@@ -4,11 +4,6 @@ public:
         
 
         int n= colors.size();
-        
-        string s="";
-
-        s.push_back(colors[0]);
-
         int a=0, b=0;
 
         for(int i=1; i<n-1; i++){
