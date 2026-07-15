@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sorting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Priyanshupal08/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Binary Search
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Divide and Conquer
 |  |
 | ------- |
