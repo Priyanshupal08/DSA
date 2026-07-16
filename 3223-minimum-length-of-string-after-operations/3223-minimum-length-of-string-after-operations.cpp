@@ -3,18 +3,18 @@ public:
     int minimumLength(string s) {
         
         int n=s.size();
-        unordered_map<char,int> m;
+        vector<int> m(26, 0);
 
         for(int i=0; i<n; i++){
-            m[s[i]]++;
+            m[s[i]-'a']++;
         }
 
         int ans=0;
-        for(auto& i: m){
+        for(int i: m){
 
 
-            if(i.second>=3){
-                if(i.second%2==0){
+            if(i>=3){
+                if(i%2==0){
                     ans+=2;
                 }
                 else{
@@ -23,7 +23,7 @@ public:
             }
 
             else{
-                ans+=i.second;
+                ans+=i;
             }
         }
 
