@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Priyanshupal08/DSA/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Priyanshupal08/DSA/tree/master/0881-boats-to-save-people) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshupal08/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Priyanshupal08/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Priyanshupal08/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Priyanshupal08/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Sorting
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshupal08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Priyanshupal08/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Priyanshupal08/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Stack
 |  |
