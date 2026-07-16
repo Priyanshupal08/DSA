@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Priyanshupal08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Priyanshupal08/DSA/tree/master/0455-assign-cookies) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
 | [0713-subarray-product-less-than-k](https://github.com/Priyanshupal08/DSA/tree/master/0713-subarray-product-less-than-k) |
 | [0881-boats-to-save-people](https://github.com/Priyanshupal08/DSA/tree/master/0881-boats-to-save-people) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshupal08/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/Priyanshupal08/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshupal08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Priyanshupal08/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
