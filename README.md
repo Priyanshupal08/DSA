@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Priyanshupal08/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Priyanshupal08/DSA/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Priyanshupal08/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Priyanshupal08/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/Priyanshupal08/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
 |  |
 | ------- |
