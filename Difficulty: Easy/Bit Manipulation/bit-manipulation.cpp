@@ -1,7 +1,7 @@
 class Solution {
   public:
     void bitManipulation(int num, int i) {
-        // your code here
+        
         i--;
         
         int k= pow(2,i);
