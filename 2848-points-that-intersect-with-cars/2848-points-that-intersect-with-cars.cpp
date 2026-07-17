@@ -2,30 +2,20 @@ class Solution {
 public:
     int numberOfPoints(vector<vector<int>>& nums) {
         
-        sort(nums.begin(), nums.end());
+        int n= nums.size();
+        vector<int> vec(101, 0);
 
-        int n=nums.size();
-
-        int mini=nums[0][0];
-        int maxi=nums[0][1];
-
-        int ans= maxi-mini+1;
-
-        int j=0;
-
-        for(int i=1; i<n; i++){
-            
-            if(nums[i][0]>nums[j][1]){
-                ans+= (nums[i][1]-nums[i][0]);
-                ans++;
-                j=i;
+        for(int i=0; i<n; i++){
+            for(int j=nums[i][0]; j<=nums[i][1]; j++){
+                vec[j]=1;
             }
+        }
 
-            // else if(nums[i][0]==nums[i])
+        int ans=0;
 
-            else if((nums[i][0]<=nums[j][1]) && (nums[i][1]>nums[j][1])){
-                ans+= (nums[i][1]-nums[j][1]);
-                j=i;
+        for(int i=0; i<101; i++){
+            if(vec[i]>0){
+                ans++;
             }
         }
 
