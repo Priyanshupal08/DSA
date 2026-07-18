@@ -3,13 +3,7 @@ class Solution {
     int setBit(int n) {
         // code here
         
-        int x= ~n;
-        
-        x=x&(x-1);
-        
-        x= ~x;
-        
-        n= n|x;
+        n= n|(n+1);
         return n;
         
     }
