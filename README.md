@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyanshupal08/DSA/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Priyanshupal08/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Priyanshupal08/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyanshupal08/DSA/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/Priyanshupal08/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshupal08/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Priyanshupal08/DSA/tree/master/0219-contains-duplicate-ii) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Priyanshupal08/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Priyanshupal08/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshupal08/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Priyanshupal08/DSA/tree/master/0242-valid-anagram) |
