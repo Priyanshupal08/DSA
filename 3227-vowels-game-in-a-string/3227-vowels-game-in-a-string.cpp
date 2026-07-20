@@ -11,13 +11,9 @@ public:
                 count++;
             }
         }
-        
 
-        if(count==0){
-            return false;
-        }
 
-        return true;
+        return (count==0)? false: true;
 
 
     }
