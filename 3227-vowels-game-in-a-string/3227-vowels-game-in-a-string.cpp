@@ -28,28 +28,7 @@ public:
             return false;
         }
 
-        if(count%2==0){
-            // count= count-1;
-            // n-= (ind+1);
-            
-            // if(n==0){
-            //     return true;
-            // }
-
-            return true;
-        }
-
-        else{
-
-            n-= (ind+1);
-            
-            if(n==0){
-                return true;
-            }
-
-        }
-
-        return false;
+        return true;
 
 
     }
