@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Priyanshupal08/DSA/tree/master/1922-count-good-numbers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Priyanshupal08/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Bit Manipulation
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2848-points-that-intersect-with-cars](https://github.com/Priyanshupal08/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Priyanshupal08/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Priyanshupal08/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Two Pointers
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Priyanshupal08/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2938-separate-black-and-white-balls](https://github.com/Priyanshupal08/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Hash Table
 |  |
 | ------- |
@@ -223,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Priyanshupal08/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Priyanshupal08/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
 |  |
