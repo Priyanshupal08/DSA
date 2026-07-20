@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/Priyanshupal08/DSA/tree/master/1922-count-good-numbers) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Priyanshupal08/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Bit Manipulation
@@ -227,12 +228,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Priyanshupal08/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3828-final-element-after-subarray-deletions](https://github.com/Priyanshupal08/DSA/tree/master/3828-final-element-after-subarray-deletions) |
 ## Simulation
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String Matching
 |  |
 | ------- |
