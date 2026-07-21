@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/Priyanshupal08/DSA/tree/master/0877-stone-game) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Priyanshupal08/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0991-broken-calculator](https://github.com/Priyanshupal08/DSA/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/Priyanshupal08/DSA/tree/master/1025-divisor-game) |
 | [1447-simplified-fractions](https://github.com/Priyanshupal08/DSA/tree/master/1447-simplified-fractions) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Priyanshupal08/DSA/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Priyanshupal08/DSA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/Priyanshupal08/DSA/tree/master/0881-boats-to-save-people) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Priyanshupal08/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1260-shift-2d-grid](https://github.com/Priyanshupal08/DSA/tree/master/1260-shift-2d-grid) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshupal08/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Priyanshupal08/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Priyanshupal08/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Priyanshupal08/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Priyanshupal08/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2848-points-that-intersect-with-cars](https://github.com/Priyanshupal08/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -196,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Priyanshupal08/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Priyanshupal08/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 ## Divide and Conquer
@@ -280,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
+| [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Priyanshupal08/DSA/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [1447-simplified-fractions](https://github.com/Priyanshupal08/DSA/tree/master/1447-simplified-fractions) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshupal08/DSA/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Priyanshupal08/DSA/tree/master/2614-prime-in-diagonal) |
