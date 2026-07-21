@@ -11,7 +11,7 @@ public:
 
         int res=0;
          for(auto i: m){
-            res= __gcd(i.second, res);
+            res= gcd(i.second, res);
          }
 
          return res>1;
