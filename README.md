@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Priyanshupal08/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Priyanshupal08/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
 | [0877-stone-game](https://github.com/Priyanshupal08/DSA/tree/master/0877-stone-game) |
 | [0991-broken-calculator](https://github.com/Priyanshupal08/DSA/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/Priyanshupal08/DSA/tree/master/1025-divisor-game) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Priyanshupal08/DSA/tree/master/1260-shift-2d-grid) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
 | [1447-simplified-fractions](https://github.com/Priyanshupal08/DSA/tree/master/1447-simplified-fractions) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshupal08/DSA/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Priyanshupal08/DSA/tree/master/2614-prime-in-diagonal) |
