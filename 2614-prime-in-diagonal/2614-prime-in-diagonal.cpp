@@ -21,10 +21,8 @@ public:
     int diagonalPrime(vector<vector<int>>& nums) {
         
         int n= nums.size();
-        int m= nums[0].size();
-
-
         int maxi=0;
+
         for(int i=0; i<n; i++){
             
             if(prime(nums[i][i])){
