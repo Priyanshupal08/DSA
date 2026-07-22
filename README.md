@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Priyanshupal08/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/Priyanshupal08/DSA/tree/master/2614-prime-in-diagonal) |
 | [2848-points-that-intersect-with-cars](https://github.com/Priyanshupal08/DSA/tree/master/2848-points-that-intersect-with-cars) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshupal08/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Priyanshupal08/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2974-minimum-number-game](https://github.com/Priyanshupal08/DSA/tree/master/2974-minimum-number-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Hash Table
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Priyanshupal08/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshupal08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshupal08/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Priyanshupal08/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Priyanshupal08/DSA/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Priyanshupal08/DSA/tree/master/1260-shift-2d-grid) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Priyanshupal08/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2974-minimum-number-game](https://github.com/Priyanshupal08/DSA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
@@ -302,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Priyanshupal08/DSA/tree/master/1260-shift-2d-grid) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshupal08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Priyanshupal08/DSA/tree/master/2500-delete-greatest-value-in-each-row) |
 | [2614-prime-in-diagonal](https://github.com/Priyanshupal08/DSA/tree/master/2614-prime-in-diagonal) |
 ## Number Theory
 |  |
