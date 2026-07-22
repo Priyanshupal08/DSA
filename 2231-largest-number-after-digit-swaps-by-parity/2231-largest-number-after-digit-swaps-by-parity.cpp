@@ -9,12 +9,12 @@ public:
         int k=0;
         while(i<n-1){
 
+            int j= n-1;
+            char maxi=s[i];
+            int ind=-1;
+
             if(s[i]%2==0){
 
-                int j= n-1;
-                char maxi=s[i];
-                int ind=-1;
-                
                 while(j>i){
                     if(s[j]%2==0 && s[j]>maxi){
                         maxi=s[j];
@@ -31,9 +31,9 @@ public:
 
             else{
 
-                int j=n-1;
-                int maxi=s[i];
-                int ind=-1;
+                // int j=n-1;
+                // int maxi=s[i];
+                // int ind=-1;
                 
                 while(j>i){
                     if(s[j]%2!=0 && s[j]>maxi){
