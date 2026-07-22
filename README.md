@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2614-prime-in-diagonal](https://github.com/Priyanshupal08/DSA/tree/master/2614-prime-in-diagonal) |
 | [2848-points-that-intersect-with-cars](https://github.com/Priyanshupal08/DSA/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Priyanshupal08/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Priyanshupal08/DSA/tree/master/1046-last-stone-weight) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Priyanshupal08/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/Priyanshupal08/DSA/tree/master/0682-baseball-game) |
 | [1260-shift-2d-grid](https://github.com/Priyanshupal08/DSA/tree/master/1260-shift-2d-grid) |
+| [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## String Matching
 |  |
