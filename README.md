@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/Priyanshupal08/DSA/tree/master/2126-destroying-asteroids) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshupal08/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Hash Table
 |  |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/Priyanshupal08/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/Priyanshupal08/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshupal08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Priyanshupal08/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Priyanshupal08/DSA/tree/master/2558-take-gifts-from-the-richest-pile) |
 ## Bucket Sort
 |  |
