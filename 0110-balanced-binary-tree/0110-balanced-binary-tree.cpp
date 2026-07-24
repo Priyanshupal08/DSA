@@ -12,15 +12,6 @@
 class Solution {
 public:
 
-    // int leftheight(TreeNode* node){
-
-    //     if(node==NULL){
-    //         return 0;
-    //     }
-
-    //     return 1+leftheight(node->left);
-
-    // }
     int height(TreeNode* node){
 
         if(node==NULL){
