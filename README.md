@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/Priyanshupal08/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 | [1539-kth-missing-positive-number](https://github.com/Priyanshupal08/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Priyanshupal08/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Priyanshupal08/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Priyanshupal08/DSA/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0991-broken-calculator](https://github.com/Priyanshupal08/DSA/tree/master/0991-broken-calculator) |
 | [1328-break-a-palindrome](https://github.com/Priyanshupal08/DSA/tree/master/1328-break-a-palindrome) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Priyanshupal08/DSA/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Priyanshupal08/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1833-maximum-ice-cream-bars](https://github.com/Priyanshupal08/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Priyanshupal08/DSA/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1328-break-a-palindrome](https://github.com/Priyanshupal08/DSA/tree/master/1328-break-a-palindrome) |
 | [1447-simplified-fractions](https://github.com/Priyanshupal08/DSA/tree/master/1447-simplified-fractions) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Priyanshupal08/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Priyanshupal08/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Priyanshupal08/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Priyanshupal08/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -247,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Priyanshupal08/DSA/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Priyanshupal08/DSA/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/Priyanshupal08/DSA/tree/master/1025-divisor-game) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/Priyanshupal08/DSA/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Linked List
 |  |
 | ------- |
