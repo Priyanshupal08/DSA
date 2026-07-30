@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/Priyanshupal08/DSA/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2413-smallest-even-multiple](https://github.com/Priyanshupal08/DSA/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/Priyanshupal08/DSA/tree/master/2614-prime-in-diagonal) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshupal08/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/Priyanshupal08/DSA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3227-vowels-game-in-a-string](https://github.com/Priyanshupal08/DSA/tree/master/3227-vowels-game-in-a-string) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Priyanshupal08/DSA/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Priyanshupal08/DSA/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2938-separate-black-and-white-balls](https://github.com/Priyanshupal08/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshupal08/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/Priyanshupal08/DSA/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Sorting
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2825-make-string-a-subsequence-using-cyclic-increments](https://github.com/Priyanshupal08/DSA/tree/master/2825-make-string-a-subsequence-using-cyclic-increments) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Priyanshupal08/DSA/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2938-separate-black-and-white-balls](https://github.com/Priyanshupal08/DSA/tree/master/2938-separate-black-and-white-balls) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Priyanshupal08/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/Priyanshupal08/DSA/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3227-vowels-game-in-a-string](https://github.com/Priyanshupal08/DSA/tree/master/3227-vowels-game-in-a-string) |
 ## Stack
