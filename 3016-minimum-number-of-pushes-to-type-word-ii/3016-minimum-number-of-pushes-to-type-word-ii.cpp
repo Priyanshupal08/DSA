@@ -2,7 +2,7 @@ class Solution {
 public:
     int minimumPushes(string word) {
 
-        vector<int> vec(256,0);
+        vector<int> vec(26,0);
 
 
         for(char i: word){
@@ -15,7 +15,7 @@ public:
             cout<<i<<" ";
         }
         cout<<endl;
-        
+
         int j=1;
         int ans=0;
 
