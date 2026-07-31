@@ -15,23 +15,7 @@ public:
             cout<<i<<" ";
         }
         cout<<endl;
-
-        // return -1;
-
-        // map<char,int> M;
-
-        // int n= word.size();
-        // for(char i: word){
-        //     M[i]++;
-        // }
-
-        // map<int,char, greater<int>> m;
-
-        // for(auto &i: M){
-        //     m[i.second]=i.first;
-        // }
-
-        // // int =1; 
+        
         int j=1;
         int ans=0;
 
