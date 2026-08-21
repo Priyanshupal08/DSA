@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Priyanshupal08/DSA/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Priyanshupal08/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshupal08/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Priyanshupal08/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Priyanshupal08/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Priyanshupal08/DSA/tree/master/0455-assign-cookies) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Priyanshupal08/DSA/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/Priyanshupal08/DSA/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshupal08/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/Priyanshupal08/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshupal08/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Priyanshupal08/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Priyanshupal08/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Priyanshupal08/DSA/tree/master/0148-sort-list) |
 | [0191-number-of-1-bits](https://github.com/Priyanshupal08/DSA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Priyanshupal08/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Priyanshupal08/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Priyanshupal08/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Priyanshupal08/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Priyanshupal08/DSA/tree/master/0148-sort-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Priyanshupal08/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
 |  |
@@ -431,4 +435,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Priyanshupal08/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Priyanshupal08/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
