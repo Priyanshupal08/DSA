@@ -13,9 +13,8 @@ public:
             x/=10;
         }
 
-        // cout<<sum<<" "<<prod;
         int res= sum+prod;
-        
+
         return n%res==0;
 
 
