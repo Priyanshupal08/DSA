@@ -48,7 +48,6 @@ public:
 
         while(temp2){
 
-            // temp2= temp1;
             int i=k;
             while(i>1){
                 temp2=temp2->next;
@@ -68,9 +67,7 @@ public:
                 i--;
             }
 
-            // if(temp2->next!=NULL){
             ListNode* n= temp2->next;
-            // }
             temp2->next= NULL;
             ListNode* r= rev(temp1);
             if(ans==NULL){
