@@ -388,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Priyanshupal08/DSA/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Priyanshupal08/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Priyanshupal08/DSA/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshupal08/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Priyanshupal08/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Priyanshupal08/DSA/tree/master/0257-binary-tree-paths) |
 | [0872-leaf-similar-trees](https://github.com/Priyanshupal08/DSA/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshupal08/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Priyanshupal08/DSA/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Priyanshupal08/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0872-leaf-similar-trees](https://github.com/Priyanshupal08/DSA/tree/master/0872-leaf-similar-trees) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Priyanshupal08/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
