@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Priyanshupal08/DSA/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Priyanshupal08/DSA/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Priyanshupal08/DSA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Priyanshupal08/DSA/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Priyanshupal08/DSA/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Priyanshupal08/DSA/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Priyanshupal08/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
 | [0477-total-hamming-distance](https://github.com/Priyanshupal08/DSA/tree/master/0477-total-hamming-distance) |
