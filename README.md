@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Priyanshupal08/DSA/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/Priyanshupal08/DSA/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/Priyanshupal08/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Priyanshupal08/DSA/tree/master/0231-power-of-two) |
 | [0477-total-hamming-distance](https://github.com/Priyanshupal08/DSA/tree/master/0477-total-hamming-distance) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Priyanshupal08/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Priyanshupal08/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Priyanshupal08/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Priyanshupal08/DSA/tree/master/0078-subsets) |
 | [0152-maximum-product-subarray](https://github.com/Priyanshupal08/DSA/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Priyanshupal08/DSA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Priyanshupal08/DSA/tree/master/0162-find-peak-element) |
@@ -441,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Priyanshupal08/DSA/tree/master/0078-subsets) |
 | [0257-binary-tree-paths](https://github.com/Priyanshupal08/DSA/tree/master/0257-binary-tree-paths) |
 ## Binary Search Tree
 |  |
